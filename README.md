@@ -2,6 +2,7 @@
 This project is done using CNN(**Convolutional Neural Network**) through Sequential Model.
 The architecture of this model consists of 7 Layers.
 ![image](https://github.com/venkataKoushik/HHCR/assets/123009890/55844f7a-dcce-4af1-9559-e1f3980f9228)
+
 **Dataset** taken from kaggle https://www.kaggle.com/datasets/suvooo/hindi-character-recognition
 consists of 46 classes ( 36 characters and 0 to 9 digits)
 **Acurracy **: 97%-98%
