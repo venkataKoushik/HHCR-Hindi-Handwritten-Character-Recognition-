@@ -7,7 +7,7 @@ The architecture of this model consists of 7 Layers.
 **DATASET** taken from kaggle https://www.kaggle.com/datasets/suvooo/hindi-character-recognition
 consists of 46 classes ( 36 characters and 0 to 9 digits)
 
-**Acurracy **: 97%-98%
+**Acurracy ** 97%-98%
 ![image](https://github.com/venkataKoushik/HHCR/assets/123009890/6fc2f2bf-11b0-49b2-a7db-96ce3b704fa4)
 
 **sample Output Images:**
